@@ -1,0 +1,246 @@
+C:\Users\vini1\Desktop\Job Portal\bin\Debug\Job Portal.exe.config
+C:\Users\vini1\Desktop\Job Portal\bin\Debug\Job Portal.exe
+C:\Users\vini1\Desktop\Job Portal\bin\Debug\Job Portal.pdb
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.Form1.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.Properties.Resources.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job Portal.csproj.GenerateResource.cache
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job Portal.csproj.CoreCompileInputs.cache
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job Portal.exe
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job Portal.pdb
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.RegisterForm.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.MainForm.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.DashBoard.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.AddJob.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.ContactList.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.JobList.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.Resume.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job_Portal.UserList.resources
+C:\Users\vini1\Desktop\Job Portal\obj\Debug\Job Portal.csproj.AssemblyReference.cache
+C:\Users\vini1\Desktop\Job Portal-original - Copy\bin\Debug\Job Portal.exe.config
+C:\Users\vini1\Desktop\Job Portal-original - Copy\bin\Debug\Job Portal.exe
+C:\Users\vini1\Desktop\Job Portal-original - Copy\bin\Debug\Job Portal.pdb
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job Portal.csproj.AssemblyReference.cache
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.AddJob.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.ContactList.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.DashBoard.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.Form1.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.JobList.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.MainForm.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.Properties.Resources.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.RegisterForm.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.Resume.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.UserList.resources
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job Portal.csproj.GenerateResource.cache
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job Portal.csproj.CoreCompileInputs.cache
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job Portal.exe
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job Portal.pdb
+C:\Users\vini1\Desktop\Job Portal-original - Copy\obj\Debug\Job_Portal.User.MainForm2.resources
+E:\COPIED PORTAL\bin\Debug\Job Portal.exe.config
+E:\COPIED PORTAL\bin\Debug\Job Portal.exe
+E:\COPIED PORTAL\bin\Debug\Job Portal.pdb
+E:\COPIED PORTAL\obj\Debug\Job_Portal.AddJob.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.ContactList.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.DashBoard.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.Form1.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.JobList.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.MainForm.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.Properties.Resources.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.RegisterForm.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.Resume.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.UserList.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.AboutUs.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.AboutUs2.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.Contact.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.Edit.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.edit1.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.FindAJob.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.Home.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.MainForm2.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.Profile.resources
+E:\COPIED PORTAL\obj\Debug\Job_Portal.User.user_Profile1.resources
+E:\COPIED PORTAL\obj\Debug\Job Portal.csproj.GenerateResource.cache
+E:\COPIED PORTAL\obj\Debug\Job Portal.csproj.CoreCompileInputs.cache
+E:\COPIED PORTAL\obj\Debug\Job Portal.exe
+E:\COPIED PORTAL\obj\Debug\Job Portal.pdb
+E:\COPIED PORTAL\obj\Debug\Job Portal.csproj.AssemblyReference.cache
+E:\COPIED PORTAL\bin\Debug\Job Portal.exe.manifest
+E:\COPIED PORTAL\bin\Debug\Job Portal.application
+E:\COPIED PORTAL\obj\Debug\Job Portal.exe.manifest
+E:\COPIED PORTAL\obj\Debug\Job Portal.application
+E:\COPIED PORTAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\COPIED PORTAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\COPIED PORTAL\obj\Debug\Job Portal.csproj.CopyComplete
+D:\Datagrid view check\bin\Debug\Job Portal.exe.config
+D:\Datagrid view check\bin\Debug\Job Portal.exe.manifest
+D:\Datagrid view check\bin\Debug\Job Portal.application
+D:\Datagrid view check\bin\Debug\Job Portal.exe
+D:\Datagrid view check\bin\Debug\Job Portal.pdb
+D:\Datagrid view check\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Datagrid view check\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Datagrid view check\obj\Debug\Job Portal.csproj.AssemblyReference.cache
+D:\Datagrid view check\obj\Debug\Job_Portal.AddJob.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.ContactList.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.DashBoard.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.Form1.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.JobList.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.MainForm.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.Properties.Resources.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.RegisterForm.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.Resume.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.UserList.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.AboutUs.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.AboutUs2.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.Contact.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.Edit.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.edit1.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.FindAJob.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.Home.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.MainForm2.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.Profile.resources
+D:\Datagrid view check\obj\Debug\Job_Portal.User.user_Profile1.resources
+D:\Datagrid view check\obj\Debug\Job Portal.csproj.GenerateResource.cache
+D:\Datagrid view check\obj\Debug\Job Portal.csproj.CoreCompileInputs.cache
+D:\Datagrid view check\obj\Debug\Job Portal.exe.manifest
+D:\Datagrid view check\obj\Debug\Job Portal.application
+D:\Datagrid view check\obj\Debug\Job Portal.csproj.CopyComplete
+D:\Datagrid view check\obj\Debug\Job Portal.exe
+D:\Datagrid view check\obj\Debug\Job Portal.pdb
+D:\Datagrid view check\obj\Debug\Job_Portal.Contact.resources
+E:\vini.sha\FlowLayoutPanel\bin\Debug\notification.ico
+E:\vini.sha\FlowLayoutPanel\bin\Debug\Job Portal.exe.config
+E:\vini.sha\FlowLayoutPanel\bin\Debug\Job Portal.exe.manifest
+E:\vini.sha\FlowLayoutPanel\bin\Debug\Job Portal.application
+E:\vini.sha\FlowLayoutPanel\bin\Debug\Job Portal.exe
+E:\vini.sha\FlowLayoutPanel\bin\Debug\Job Portal.pdb
+E:\vini.sha\FlowLayoutPanel\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\vini.sha\FlowLayoutPanel\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job Portal.csproj.AssemblyReference.cache
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.AddJob.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.ContactList.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.DashBoard.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.Form1.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.JobList.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.Contact.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.MainForm.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.Properties.Resources.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.RegisterForm.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.Resume.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.UserList.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.AboutUs.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.AboutUs2.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.Contact.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.Edit.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.edit1.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.Filter.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.find.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.FindJob.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.Home.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.MainForm2.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.notification.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.Notify1.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.Profile.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.user_Profile1.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.Test1.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.Test2.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job_Portal.User.TestJobControl1.resources
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job Portal.csproj.GenerateResource.cache
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job Portal.csproj.CoreCompileInputs.cache
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job Portal.exe.manifest
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job Portal.application
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job Portal.csproj.CopyComplete
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job Portal.exe
+E:\vini.sha\FlowLayoutPanel\obj\Debug\Job Portal.pdb
+E:\veltech\FlowLayoutPanel\bin\Debug\notification.ico
+E:\veltech\FlowLayoutPanel\bin\Debug\Job Portal.exe.config
+E:\veltech\FlowLayoutPanel\bin\Debug\Job Portal.exe.manifest
+E:\veltech\FlowLayoutPanel\bin\Debug\Job Portal.application
+E:\veltech\FlowLayoutPanel\bin\Debug\Job Portal.exe
+E:\veltech\FlowLayoutPanel\bin\Debug\Job Portal.pdb
+E:\veltech\FlowLayoutPanel\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\veltech\FlowLayoutPanel\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\veltech\FlowLayoutPanel\bin\Debug\Interop.AcroPDFLib.dll
+E:\veltech\FlowLayoutPanel\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.csproj.AssemblyReference.cache
+E:\veltech\FlowLayoutPanel\obj\Debug\Interop.AcroPDFLib.dll
+E:\veltech\FlowLayoutPanel\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.csproj.ResolveComReference.cache
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.AddJob.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.ContactList.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.DashBoard.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.Form1.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.JobList.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.Contact.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.MainForm.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.Properties.Resources.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.RegisterForm.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.Resume.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.UserList.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.AboutUs.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.AboutUs2.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.Contact.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.Edit.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.edit1.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.Filter.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.find.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.FindJob.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.Home.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.MainForm2.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.notification.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.Notify1.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.Profile.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.user_Profile1.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.Test1.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.Test2.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job_Portal.User.TestJobControl1.resources
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.csproj.GenerateResource.cache
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.csproj.CoreCompileInputs.cache
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.exe.manifest
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.application
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.csproj.CopyComplete
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.exe
+E:\veltech\FlowLayoutPanel\obj\Debug\Job Portal.pdb
+E:\shared E part3\veltech\Panel\bin\Debug\notification.ico
+E:\shared E part3\veltech\Panel\bin\Debug\Job Portal.exe.config
+E:\shared E part3\veltech\Panel\bin\Debug\Job Portal.exe.manifest
+E:\shared E part3\veltech\Panel\bin\Debug\Job Portal.application
+E:\shared E part3\veltech\Panel\bin\Debug\Job Portal.exe
+E:\shared E part3\veltech\Panel\bin\Debug\Job Portal.pdb
+E:\shared E part3\veltech\Panel\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\shared E part3\veltech\Panel\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.csproj.AssemblyReference.cache
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.csproj.ResolveComReference.cache
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.AddJob.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.ContactList.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.DashBoard.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.Form1.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.JobList.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.Contact.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.MainForm.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.Properties.Resources.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.RegisterForm.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.Resume.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.UserList.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.AboutUs.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.AboutUs2.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.Contact.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.Edit.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.edit1.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.Filter.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.find.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.FindJob.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.Home.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.MainForm2.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.notification.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.Notify1.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.Profile.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.user_Profile1.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.Test1.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.Test2.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job_Portal.User.TestJobControl1.resources
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.csproj.GenerateResource.cache
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.csproj.CoreCompileInputs.cache
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.exe.manifest
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.application
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.csproj.CopyComplete
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.exe
+E:\shared E part3\veltech\Panel\obj\Debug\Job Portal.pdb
